@@ -1,29 +1,29 @@
 pre,
 code {
-	font-family: var(--codeFont);
-	-webkit-font-smoothing: auto;
-	-moz-osx-font-smoothing: auto;
+  font-family: "Fira Code", monospace;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
 }
 
 pre {
-	overflow-y: auto;
-	color: var(--paper);
-	background: var(--darker);
-	padding: 1rem;
-	font-size: 0.8rem;
+  overflow-x: auto;
+  background: var(--darker);
+  color: var(--paper);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-size: 0.85rem;
 }
 
 code {
-	color: var(--darker);
-	font-size: 1rem;
-	padding: .125em .25em;
-	border-radius: 4px;
-	background: var(--lighterAccent);
-	white-space: pre;
+  background: var(--lighterAccent);
+  color: var(--darker);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  white-space: pre-wrap;
 }
 
 pre code {
-	padding: 0;
-	background: transparent;
-	font-size: 0.8rem;
+  background: transparent;
+  padding: 0;
 }

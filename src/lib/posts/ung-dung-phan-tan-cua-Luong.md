@@ -4,6 +4,7 @@ date: '2025-04-28'
 coverImage: 'meo.jpg'
 description: 'Khái niệm nền tảng, ứng dụng thực tế, các mô hình kiến trúc và các thuật ngữ cơ bản trong hệ thống phân tán.'
 published: true
+excerpt: Lương đẹp chai.
 ---
 
 **Tác giả**: Trịnh Phúc Lương  
